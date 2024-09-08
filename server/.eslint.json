@@ -1,0 +1,17 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true
+  },
+  "parser": "@typescript-eslint/parser",
+  "plugins": ["prettier"],
+  "extends": ["standard-with-typescript", "prettier"],
+  "parserOptions": {
+    "project": "./tsconfig.json",
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  },
+  "rules": {
+    "prettier/prettier": [2, { "endOfLine": "auto" }]
+  }
+}

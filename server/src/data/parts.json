@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Red Roses Bouquet", "quantity": 5 },
+  { "id": 2, "name": "Box of chocolates", "quantity": 5 },
+  { "id": 3, "name": "Love card", "quantity": 5 },
+  { "id": 4, "name": "Women’s perfume", "quantity": 5 },
+  { "id": 5, "name": "Birthday cupcake", "quantity": 5 },
+  { "id": 6, "name": "$100 Visa Gift Card", "quantity": 5 },
+  { "id": 7, "name": "Birthday card", "quantity": 5 },
+  { "id": 8, "name": "Bottle of wine", "quantity": 5 },
+  { "id": 9, "name": "Fruit basket", "quantity": 5 },
+  { "id": 10, "name": "Pen", "quantity": 5 }
+]
